@@ -1,6 +1,4 @@
-/* POJ 宠物小精灵之收服 4978 http://noi.openjudge.cn/ch0206/4978/ 动态规划（buttom-up）解法
-   这是一个二维背包问题。
-*/
+/* POJ 宠物小精灵之收服 4978 http://noi.openjudge.cn/ch0206/4978/ 动态规划（buttom-up）解法 */
 
 #include <iostream>
 #include <cstring>
