@@ -1,9 +1,10 @@
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 # Algorithms
 ## 动态规划
 ### 二维背包问题
 * 问题描述：
-	* 设有//(n//)件物品，每件物品
+	* 设有$n$件物品，每件物品
 * 例题 -- POJ 4978 宠物小精灵之收服 (http://noi.openjudge.cn/ch0206/4978/)
 	* 参考文献：
 		* https://www.jianshu.com/p/efa8fbc0fea4
